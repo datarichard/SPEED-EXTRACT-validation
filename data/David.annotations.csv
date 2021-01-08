@@ -1,0 +1,275 @@
+,USER,ENCNTR_KEY,diagnosis,reason.for.other
+0,David,103299,nstemi,
+1,David,103375,other,heart failure
+2,David,103705,other,respiratory infection
+3,David,111583,stemi,
+4,David,111666,stemi,
+5,David,111786,other,infective endocarditis
+6,David,111812,other,motor vehicle accident
+7,David,112070,other,rapid AF
+8,David,119330,other,UTI
+9,David,119561,other,diverticulitis
+10,David,119628,stemi,
+11,David,119673,other,LRTI and exacerbation of COPD
+12,David,127755,nstemi,
+13,David,127902,other,SVT
+14,David,134185,other,Pneumonia 
+15,David,134339,nstemi,
+16,David,134393,other,AF
+17,David,141743,other,SVT
+18,David,141838,other,APO
+19,David,147560,other,hypertension
+20,David,153607,other,respiratory failure secondary to APO
+21,David,158635,stemi,
+22,David,158713,nstemi,
+23,David,158717,stemi,
+24,David,158800,stemi,
+25,David,164975,nstemi,
+26,David,170995,nstemi,
+27,David,177408,other,wide complex tachycardia
+28,David,177656,other,small bowel obstruction
+29,David,183646,other,syncope
+30,David,183695,nstemi,
+31,David,183827,nstemi,
+32,David,183923,nstemi,Urosepsis
+33,David,190023,other,pneumonia
+34,David,195422,other,upper gi bleedingg
+35,David,201455,other,pancreatitis
+36,David,201513,other,stroke
+37,David,206935,nstemi,
+38,David,206945,other,pneumonia
+39,David,218660,other,gastrointestinal illness
+40,David,237555,other,urosepsis
+41,David,237704,nstemi,lobectomy for lung cancer
+42,David,241664,other,Fall
+43,David,241668,other,cellulitis
+44,David,241774,nstemi,
+45,David,245838,other,elective hernia repair complicated by pulmonary embolism
+46,David,246046,other,heart failure
+47,David,250626,angina,
+48,David,254578,other,lobectomy for lung cancer
+49,David,254655,stemi,
+50,David,258885,stemi,
+51,David,259038,other,Urinary tract infection
+52,David,262957,other,out of hospital cardiac arrest
+53,David,266342,stemi,
+54,David,270401,stemi,
+55,David,272880,nstemi,fall with rib fracture
+56,David,272960,other,acute pulmonary oedema
+57,David,272969,other,fall with rib fracture
+58,David,275803,other,urosepsis
+59,David,279184,other, MSK chest pain
+60,David,281870,other,takotsubo
+61,David,284512,other,possible myopericarditis
+62,David,284541,other,takotsubo
+63,David,284549,other,ICH
+64,David,284577,other,fall with fracture
+65,David,284715,other,ICH
+66,David,286780,stemi,
+67,David,286952,other,AF
+68,David,289266,other,myopericarditis
+69,David,291435,other,Long lie with elevated CK
+70,David,294942,stemi,
+71,David,295064,other,takotsubo
+72,David,296523,other,abdominal pain - unclear cause
+73,David,299549,nstemi,
+74,David,299603,nstemi,
+75,David,300707,other,atrial tachycardia
+76,David,301402,nstemi,
+77,David,303241,other,unwitnessed fall secondary to infection
+78,David,303756,other,fall
+79,David,303773,other,hyperkalaemia
+80,David,303774,other,fall with fracture
+81,David,303778,stemi,
+82,David,305170,stemi,
+83,David,305251,other,AF
+84,David,305268,other,elective aorta surgery
+85,David,305414,other,urinary retention
+86,David,307495,other,pneumonia
+87,David,307567,other,pulmonary embolism
+88,David,307606,stemi,
+89,David,307866,other,fall
+90,David,307920,stemi,
+91,David,310192,other,heart failure
+92,David,312656,other,possible myocarditis
+93,David,312674,other,AF
+94,David,312711,nstemi,
+95,David,315137,other,appendicitis
+96,David,315316,other,VT
+97,David,315356,nstemi,viral respiratory infection
+98,David,317883,other,functional decline
+99,David,317955,stemi,
+100,David,317962,stemi,
+101,David,317975,nstemi,
+102,David,318114,nstemi,
+103,David,320946,other,stroke
+104,David,321160,nstemi,
+105,David,323647,other,infective endocarditis
+106,David,323787,other,respiratory infection
+107,David,323935,other,knee pain and unwitnessed fall
+108,David,326588,nstemi,
+109,David,326893,other,elective tavi
+110,David,326937,other,abdominal pain no clear cause
+111,David,329394,nstemi,
+112,David,329476,other,elective aortic valve surgery
+113,David,329795,stemi,
+114,David,333014,other,fall
+115,David,333121,other,pulmonary oedema
+116,David,336390,stemi,
+117,David,336416,other,rapid AF 
+118,David,336527,other,syncope
+119,David,336529,other,supraglottitis
+120,David,336537,nstemi,
+121,David,336731,nstemi,
+122,David,340056,other,schizophrenia
+123,David,340089,other,fall with fracture
+124,David,340215,other,pancreatitis
+125,David,340232,nstemi,
+126,David,340302,nstemi,
+127,David,340316,nstemi,
+128,David,340366,other,elective cardiac surgery
+129,David,348801,other,urinary tract infection
+130,David,352246,nstemi,
+131,David,352521,nstemi,
+132,David,352623,other,delirium
+133,David,355489,nstemi,
+134,David,355500,other,"possible seizure, rhabdo"
+135,David,358802,other,pulmonary oedema
+136,David,360692,other,rectus sheath haematoma
+137,David,360702,nstemi,
+138,David,360959,other,respiratory tract infection
+139,David,361072,stemi,
+140,David,362984,other,head trauma post syncope
+141,David,363256,other,diarrhoea
+142,David,363308,other,palpitations
+143,David,363319,other,out of hospital cardiac arrest
+144,David,365247,other,syncope
+145,David,365253,other,metabolic derangement
+146,David,365271,stemi,
+147,David,365376,other,Influenza A
+148,David,367382,other,arm weakness - no specific cause
+149,David,367634,other,complete heart block
+150,David,367746,other,pulmonary oedema
+151,David,369865,nstemi,
+152,David,370164,other,Infection - urosepsis
+153,David,370167,other,pacemaker site infection
+154,David,372373,other,AF
+155,David,372379,stemi,
+156,David,372413,stemi,
+157,David,374762,other,fall with confusion
+158,David,374866,other,pneumonia
+159,David,374873,other,Aspiration pneumonia
+160,David,374910,other,fall
+161,David,375109,other,fall
+162,David,377649,nstemi,
+163,David,380290,other,bowel obstruction
+164,David,380405,nstemi,
+165,David,380510,other,atrial flutter
+166,David,380599,other,heart failure
+167,David,380650,other,AF
+168,David,383091,other,PE
+169,David,383117,other,Fall with fractured hip
+170,David,383197,other,fall
+171,David,383348,other,delirium
+172,David,383501,nstemi,
+173,David,383508,nstemi,can't call takotsubo before angiogram done
+174,David,385814,nstemi,
+175,David,385912,other,fall with hip dislocation
+176,David,386107,nstemi,
+177,David,388749,stemi,
+178,David,388762,other,elective hemicolectomy
+179,David,389047,other,pneumonitis
+180,David,392068,other,fall with fractured humerus
+181,David,392410,other,heart failure
+182,David,392421,nstemi,
+183,David,395961,stemi,
+184,David,399139,nstemi,
+185,David,399407,other,syncope
+186,David,401633,other,heart failure
+187,David,403576,other,delirium
+188,David,403637,other,diabetic ketoacidosis
+189,David,406788,other,heart failure
+190,David,409325,angina,
+191,David,409472,nstemi,
+192,David,411690,other,Respiratory tract infection
+193,David,411867,nstemi,
+194,David,415226,other,viral respiratory infection
+195,David,415262,angina,
+196,David,418136,other,heart failure secondary to severe mitral regurgitation
+197,David,418176,other,fluid overload due to pulmonary hypertension
+198,David,418211,other,fall with fractured femur
+199,David,421073,other,fall with long lie
+200,David,421287,other,falls due to tachybrady syndrome
+201,David,421450,other,heart failure
+202,David,424032,other,pneumonia
+203,David,424065,stemi,
+204,David,424424,angina,
+205,David,426649,other,fall
+206,David,426744,nstemi,
+207,David,426844,other,metabolic derangement
+208,David,429037,other,respiratory tract infection
+209,David,429175,other,fall with fractured femur
+210,David,429277,nstemi,
+211,David,431274,nstemi,
+212,David,433669,stemi,
+213,David,433981,stemi,
+214,David,434010,nstemi,
+215,David,436467,other,Probable takotsubo
+216,David,436683,stemi,
+217,David,436790,stemi,
+218,David,439808,nstemi,
+219,David,439882,other,Fall
+220,David,439923,other,heart failure
+221,David,440104,other,heart failure
+222,David,442728,other,fever of unknown origin
+223,David,442810,other,palpitations likely due to AF
+224,David,442836,other,respiratory tract infection
+225,David,445911,other,urosepsis
+226,David,445939,nstemi,
+227,David,446202,other,upper gastrointestinal bleed
+228,David,446232,other,urosepsis
+229,David,451652,other,CABG
+230,David,454279,other,fall with fracture of femur
+231,David,454477,stemi,
+232,David,456821,other,syncope - unclear cause
+233,David,456915,other,heart failure
+234,David,457037,other,heart failure secondary to rapid AF
+235,David,459581,nstemi,
+236,David,461508,nstemi,
+237,David,461517,other,rapid atrial fibrillation
+238,David,463613,other,palpitations
+239,David,463670,other,pneumonia
+240,David,467900,nstemi,
+241,David,469716,nstemi,
+242,David,469817,nstemi,
+243,David,469987,other,fluid overload
+244,David,471620,other,takotsubo
+245,David,471810,nstemi,
+246,David,474495,other,resection of skin cancer
+247,David,474538,other,elective cardiac surgery
+248,David,474633,other,fall causing haematoma of leg
+249,David,474645,other,"nausea and vomiting, unclear cause"
+250,David,474676,other,aortic dissection
+251,David,475762,other,pneumonia
+252,David,475785,other,pneumonia and confusion
+253,David,475894,other,ascending aortic aneurysm
+254,David,476002,other,elective cardiac surgery
+255,David,476922,nstemi,
+256,David,477010,other,motor vehicle accident
+257,David,478959,other,pulmonary hypertension unclear cause
+258,David,478992,other,respiratory tract infection
+259,David,479044,nstemi,
+260,David,479528,other,pneumonia
+261,David,479560,stemi,
+262,David,55209,other,heart failure
+263,David,73915,nstemi,
+264,David,73971,other,aortic graft endoleak
+265,David,73998,nstemi,
+266,David,74012,other,pneumonia
+267,David,83744,other,dizziness unclear cause
+268,David,83747,other,infective endocarditis
+269,David,83941,other,fall with sternal fracture
+270,David,83980,nstemi,
+271,David,93665,other,exacerbation of COPD
+272,David,93798,other,fall with vertebral fractures
+273,David,93806,other,fall with long lie

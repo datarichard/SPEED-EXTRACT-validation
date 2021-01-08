@@ -1,0 +1,274 @@
+,USER,ENCNTR_KEY,diagnosis,reason.for.other
+0,Ron,103307,nstemi,
+1,Ron,103705,other,"Symptomatic anaemia - type 2 MI anaemia, mild troponin leak"
+2,Ron,103720,other,Pneumonia with Type II MI
+3,Ron,103800,other,Angina
+4,Ron,111784,nstemi,
+5,Ron,111949,nstemi,
+6,Ron,127771,other,Heart failure
+7,Ron,134185,nstemi,NSTEMI 
+8,Ron,134204,stemi,
+9,Ron,134383,other,Pneumonia and septic shock
+10,Ron,141629,other,Atrial fibrillation precipitated by CAP
+11,Ron,141678,other,Aspiration pneumonia 
+12,Ron,147585,nstemi,Acute pulmonary oedema
+13,Ron,147840,nstemi,
+14,Ron,153844,other,Intracranial haemorrhage
+15,Ron,158645,other,Fall leading to periprosthetic hip fracture
+16,Ron,158713,nstemi,
+17,Ron,158846,other,Cardiac tamponade
+18,Ron,164961,other,Painless Jaundice secondary to flucloxacillin use
+19,Ron,170920,other,Cardiac arrest
+20,Ron,170995,nstemi,
+21,Ron,171214,nstemi,
+22,Ron,201273,other,Elective Bypass
+23,Ron,201278,other,Syncope
+24,Ron,201497,other,Small Bowel Obstruction
+25,Ron,206753,other,Seizure with takutsubo cardiomyopathy
+26,Ron,206851,angina,
+27,Ron,206935,nstemi,
+28,Ron,212687,other,Pulmonary embolus
+29,Ron,212774,stemi,
+30,Ron,212906,nstemi,NSTEMI with concurrent UTI
+31,Ron,212959,other,Takotsubo's Cardiomyopathy
+32,Ron,218347,other,Non cardiac chest pain
+33,Ron,218416,nstemi,
+34,Ron,218605,other,myopericarditis 
+35,Ron,218662,stemi,
+36,Ron,218699,other,Seizure
+37,Ron,223930,nstemi,
+38,Ron,233114,other,Elective aortic valve and root replacement
+39,Ron,233238,other,Respiratory Arrest unclear cause
+40,Ron,237524,other,Syncope 
+41,Ron,237530,other,Community acquired pneumonia
+42,Ron,237555,other,Urosepsis
+43,Ron,237637,other,Multiple falls in context of EtOH use
+44,Ron,237644,other,Pneumonia with pleurisy
+45,Ron,241825,stemi,
+46,Ron,250455,other,Acute cholecystitis 
+47,Ron,250489,other,PE
+48,Ron,258804,nstemi,Septic shock of unknown origin
+49,Ron,258885,stemi,
+50,Ron,259038,nstemi,NSTEMI complicated with urosepsis
+51,Ron,259175,other,Cardiac Arrest - VF arrest secondary to late stent thrombosis
+52,Ron,262776,other,Exacerbation of heart failure
+53,Ron,266292,other,Urosepsis with syncope and long lie.
+54,Ron,266342,stemi,
+55,Ron,266370,other,Community acquired pneumonia complicated by NSTEMI
+56,Ron,270088,other,Epistaxis
+57,Ron,270148,other,Takutsubo
+58,Ron,270386,stemi,
+59,Ron,272830,other,Pacemaker lead change
+60,Ron,272880,other,Angina
+61,Ron,275755,other,Respiratory sepsis
+62,Ron,275803,other,Urosepsis
+63,Ron,276019,other,Parainfluenza and sepsis
+64,Ron,279178,nstemi,
+65,Ron,282147,nstemi,
+66,Ron,284538,nstemi,
+67,Ron,286950,nstemi,
+68,Ron,291435,other,fall with long lie
+69,Ron,291531,other,Pneumonia and sepsis
+70,Ron,293440,nstemi,
+71,Ron,296485,nstemi,
+72,Ron,297358,other,Stroke
+73,Ron,299603,nstemi,
+74,Ron,299607,other,seizure.
+75,Ron,299658,nstemi,
+76,Ron,299678,nstemi,
+77,Ron,301348,other,Elective Bypass
+78,Ron,302089,nstemi,
+79,Ron,302756,nstemi,
+80,Ron,302794,other,Cardiac failure
+81,Ron,302801,stemi,Cardiac arrest secondary to STEMI
+82,Ron,302846,nstemi,NSTEMI leading to acute pulmonary oedema
+83,Ron,303045,nstemi,NSTEMI causing pulmonary oedema
+84,Ron,303479,stemi,
+85,Ron,303524,other,Pneumonia
+86,Ron,303756,other,Fall 
+87,Ron,305170,stemi,
+88,Ron,305327,stemi,
+89,Ron,305434,stemi,
+90,Ron,307527,other,Resection of right cerebellar metastasis
+91,Ron,307679,other,Rate related troponin leak 
+92,Ron,307821,other,Exacerbation of CCF
+93,Ron,307880,other,Sepsis of unknown origin
+94,Ron,309949,stemi,
+95,Ron,310177,other,Urosepsis
+96,Ron,318207,nstemi,
+97,Ron,320759,other,Elective left total knee replacement 
+98,Ron,321156,other,angina
+99,Ron,321187,other,Not an ACS
+100,Ron,323638,other,Rapid AF
+101,Ron,323714,other,hospital acquired pneumnoia
+102,Ron,323794,nstemi,
+103,Ron,326677,other,"Cardiomyopathy, heart failure"
+104,Ron,326679,nstemi,"ECG 8 and 9, 18 - 20 suspicious for a STEMI but all in MAY (But admission presentation was the 26th of April). So unable to make a call - based on notes this was an NSTEMI"
+105,Ron,326896,nstemi,Syncope
+106,Ron,326988,nstemi,
+107,Ron,329893,other,biliary sepsis
+108,Ron,333060,other,Coronary artery bypass
+109,Ron,333129,stemi,
+110,Ron,333287,nstemi,
+111,Ron,333306,nstemi,
+112,Ron,336454,other,Dressler's syndrome
+113,Ron,336529,other,Supraglottitis
+114,Ron,339973,other,large GI bleed
+115,Ron,340302,nstemi,
+116,Ron,340393,other,type 1 resp failure secondary to RSV pneumonia requiring intubation and sepsis
+117,Ron,344124,nstemi,NSTEMI triple vessel disease requiring bypass
+118,Ron,348576,other,respiratory tract infection comlicated by Rapid atrial fibrillation
+119,Ron,355449,other,Angina
+120,Ron,358563,nstemi,
+121,Ron,358824,other,Rapid AF
+122,Ron,360695,nstemi,
+123,Ron,360981,nstemi,
+124,Ron,361004,nstemi,
+125,Ron,363056,other,Intracranial haemorrhage
+126,Ron,363113,other,Fall with fracture neck of femur
+127,Ron,365243,nstemi,
+128,Ron,367398,other,Fall with left neck of femur fracture
+129,Ron,367705,other,Urinary Tract Infection
+130,Ron,369865,other,Elective Bypass
+131,Ron,369900,other,Fall with left  ankle fracture requiring rehab.
+132,Ron,370112,other,Small bowel obstruction
+133,Ron,37110,other,Valve replacement for endocarditis
+134,Ron,374873,other,Aspiration pneumonia
+135,Ron,377381,nstemi,
+136,Ron,377593,other,Anaemia from PR Bleed
+137,Ron,377649,nstemi,
+138,Ron,377706,other,Urinary tract infection
+139,Ron,380275,other,Sepsis
+140,Ron,380411,other,Heart failure 
+141,Ron,380510,other,Atrial flutter
+142,Ron,380636,nstemi,
+143,Ron,380650,other,Atrial fibrillation with rapid ventricular response
+144,Ron,383425,other,ischaemia stroke
+145,Ron,385814,nstemi,
+146,Ron,385842,other,Respiratory tract infection and UTI
+147,Ron,385912,other,Fall with left hip dislocation
+148,Ron,386048,nstemi,
+149,Ron,386111,other,Left lower lobe pneumonia
+150,Ron,388686,other,Angina
+151,Ron,388732,other,Community acquired pneumonia 
+152,Ron,388796,other,Angina
+153,Ron,392104,other,Fall with long lie complicated by NSTEMI
+154,Ron,392139,other,Discitis with epidural collection
+155,Ron,392194,other,Multi-organ failure unclear cause as was not investigated. 
+156,Ron,392379,other,Urosepsis
+157,Ron,395651,other,Community acquired pneumonia with exacerbation of heart failure 
+158,Ron,395655,other,Epigastric pain 
+159,Ron,395670,other,Syncope
+160,Ron,395821,other,Syncope secondary to arrhythmia
+161,Ron,395961,stemi,
+162,Ron,399247,nstemi,
+163,Ron,399309,other,respiratory infection
+164,Ron,399390,other,Subarachnoid haemorrhage
+165,Ron,399433,nstemi,
+166,Ron,399442,stemi,
+167,Ron,399479,other,atrial fibrillation
+168,Ron,399505,other,Respiratory sepsis 
+169,Ron,399535,other,Fall with long lie
+170,Ron,403625,other,Pneumonia with Type II MI
+171,Ron,403637,other,Diabetic ketoacidosis
+172,Ron,406422,other,Left subtrochanteric fracture
+173,Ron,406537,other,Gastroenteritis 
+174,Ron,406661,nstemi,
+175,Ron,409054,other,Elective tissue AVR and CABG
+176,Ron,409405,other,Viral myopericarditis 
+177,Ron,409459,other,fall and long lie
+178,Ron,411560,nstemi,
+179,Ron,411690,other,infective exacerbation of COPD leading to decompensated heart failure. 
+180,Ron,411714,nstemi,
+181,Ron,411861,nstemi,
+182,Ron,411867,nstemi,
+183,Ron,414949,other,Redo CABG
+184,Ron,415041,other,Urosepsis 
+185,Ron,415280,other,Pulmonary embolus
+186,Ron,418150,other,Osteomyelitis 
+187,Ron,418204,other,Fall
+188,Ron,418224,stemi,
+189,Ron,418295,stemi,
+190,Ron,424065,stemi,
+191,Ron,424141,other,Fall with long lie.
+192,Ron,424157,other,Takotsubo cardiomyopathy
+193,Ron,426627,stemi,
+194,Ron,426628,nstemi,
+195,Ron,426740,other,Infective exacerbation of COPD
+196,Ron,426919,nstemi,
+197,Ron,428894,other,Acute exacerbation of chronic mesenteric insufficiency
+198,Ron,431136,other,Status epilepticus
+199,Ron,433981,stemi,
+200,Ron,436561,other,Angina
+201,Ron,436790,stemi,
+202,Ron,440125,other,Sepsis of unknown origin
+203,Ron,440158,other,Ventricular tachycardia causing syncope
+204,Ron,442811,nstemi,
+205,Ron,446128,other,Cardiomyopathy 
+206,Ron,446181,nstemi,NSTEMI causing APO
+207,Ron,448901,other,Pulmonary TB and massive haemoptysis 
+208,Ron,448929,other,Choledocholithiasis 
+209,Ron,449144,other,Pneumonia complicated by exacerbation of heart failure.
+210,Ron,451423,other,Fall with left colles fracture and displaced fracture of surgical neck of humerus
+211,Ron,451450,nstemi,
+212,Ron,451592,other,Upper GI bleed 
+213,Ron,451650,other,Ventricular tachycardia 
+214,Ron,454155,other,Anaemia precipitating type II MI and heart failure
+215,Ron,454191,other,Elective AVR for critical aortic stenosis. 
+216,Ron,456818,other,Elective cholecystectomy complicated by NSTEMI. 
+217,Ron,456824,other,E. coli urosepsis 
+218,Ron,456857,other,Autonomic dysreflexia
+219,Ron,457037,other,Rapid atrial fibrillation precipitating heart failure. 
+220,Ron,457092,other,Fall likely secondary severe aortic stenosis. 
+221,Ron,457097,nstemi,
+222,Ron,459304,nstemi,
+223,Ron,459336,other,Blast crisis on b/g of CLL
+224,Ron,459491,nstemi,
+225,Ron,459524,other,Gastrointestinal bleed
+226,Ron,461510,nstemi,NSTEMI with triple vessel disease requiring emergency bypass
+227,Ron,461734,other,Supraventricular tachycardia 
+228,Ron,46264,other,Decompensated heart failure 
+229,Ron,465747,nstemi,
+230,Ron,465870,nstemi,
+231,Ron,465976,other,GI bleed causing anaemia and demand ischaemia 
+232,Ron,467976,other,Elective coronary artery bypass
+233,Ron,469716,nstemi,
+234,Ron,469817,other,Pneumonia precipitating NSTEMI
+235,Ron,469892,other,Exacerbation of heart failure.
+236,Ron,469924,other,Syncope 
+237,Ron,470015,nstemi,
+238,Ron,471523,other,Percarditis
+239,Ron,471527,other,out of hospital cardiac arrest ?secondary to complete heart block
+240,Ron,471759,other,Chest pain secondary to rapid AF
+241,Ron,473398,other,Fall with long lie and rhabdomyolysis  
+242,Ron,473568,other,Ventricular tachycardia with defibrillation by device.
+243,Ron,475671,other,Aortic valve replacement
+244,Ron,475682,other,Acute pulmonary oedema 
+245,Ron,475894,other,Ascending aortic aneurysmal repair 
+246,Ron,477105,nstemi,
+247,Ron,477155,other,Subarachnoid haemorrhage 
+248,Ron,477229,other,Angina
+249,Ron,477607,stemi,
+250,Ron,477678,nstemi,
+251,Ron,478844,other,pericarditis
+252,Ron,478982,other,fall causing fracture of neck of femur complicated by NSTEMI
+253,Ron,479092,stemi,
+254,Ron,479448,nstemi,
+255,Ron,479528,other,Community acquired pneumonia
+256,Ron,479567,other,Pericarditis
+257,Ron,479568,nstemi,
+258,Ron,479592,stemi,
+259,Ron,479614,other,Urosepsis complicated type II  MI
+260,Ron,480047,other,Infective exacerbatiion of heart failure
+261,Ron,480049,nstemi,
+262,Ron,55380,other,Acute pulmonary oedema 
+263,Ron,64903,other,Hypoxic arrest
+264,Ron,73971,other,Ruptured AAA
+265,Ron,74012,other,Pneumonia complicated by rapid AF
+266,Ron,93584,other,E coli urosepsis 
+267,Ron,93650,other,Biliary sepsis 
+268,Ron,93665,other,Exacerbation of COPD
+269,Ron,93700,other,Fall with traumatic subarachnoid haemorrhage 
+270,Ron,93798,other,Fall with vertebral fractures 
+271,Ron,93842,other,heart failure with reduced ejection fraction also exacerbated by moderate to severe aortic stenosis 
+272,Ron,93948,stemi,

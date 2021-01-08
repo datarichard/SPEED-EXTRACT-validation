@@ -1,0 +1,276 @@
+,USER,ENCNTR_KEY,diagnosis,reason.for.other
+0,Chris,103637,stemi,No STEMI ECG uploaded but documentation suggestive of STEMI=
+1,Chris,103705,other,heart failure and anaemia
+2,Chris,103724,nstemi,
+3,Chris,111685,other,pneumonia
+4,Chris,112017,other,Had a troponin leak in context of type 2 respiratory failure which is primary diagnosis
+5,Chris,134185,other,Primary diagnosis is Community acquired pneumonia then NSTEMI
+6,Chris,134249,other,Syncope due to ventricular tachycardia
+7,Chris,134328,other,Pumonary embolism
+8,Chris,147536,other,Primary diagnosis Congestive cardiac failure 
+9,Chris,147743,other,Pneumonia
+10,Chris,153586,nstemi,
+11,Chris,153639,nstemi,
+12,Chris,153672,other,Small bowel obstruction
+13,Chris,153690,other,pneumonia
+14,Chris,158710,other,acute pulmonary oedema
+15,Chris,158713,other,Angina - insufficient documentation to say if unstable or not
+16,Chris,158794,other,Troponin leak in context of atrial fibrillation with rapid ventricular response
+17,Chris,164976,other,aspiration pneumonia
+18,Chris,165064,nstemi,
+19,Chris,170995,angina,
+20,Chris,171171,other,Unknown cause of breathlessness
+21,Chris,171232,nstemi,
+22,Chris,177649,other,Pneumonia complicated by cardiac arrest and NSTEMI
+23,Chris,177657,stemi,
+24,Chris,183633,angina,
+25,Chris,183722,stemi,
+26,Chris,183775,other,Heart failure
+27,Chris,183794,other,heart failure secondary to ischaemic cardiomyopathy
+28,Chris,19145,other,Empyema
+29,Chris,19170,other,Diabetic Ketoacidosis
+30,Chris,195470,other,Seizure
+31,Chris,195632,other,Pneumonia
+32,Chris,195695,stemi,
+33,Chris,201511,nstemi,
+34,Chris,206637,stemi,De Winter's ECG
+35,Chris,206935,nstemi,
+36,Chris,206953,nstemi,
+37,Chris,212678,other,Right atrial mass
+38,Chris,218339,other,Severe Aortic Stenosis
+39,Chris,218346,other,Heart failure 
+40,Chris,218488,other,Small bowel obstruction
+41,Chris,218722,stemi,
+42,Chris,228617,stemi,
+43,Chris,233091,stemi,
+44,Chris,233191,stemi,
+45,Chris,237555,other,sepsis
+46,Chris,237692,other,Surgical complication
+47,Chris,245948,other,Sepsis
+48,Chris,246045,other,heart failure 
+49,Chris,246195,nstemi,
+50,Chris,250338,other,cardiac arrest 
+51,Chris,250517,nstemi,
+52,Chris,250613,other,Heart failure
+53,Chris,254358,other,Falls
+54,Chris,258885,stemi,
+55,Chris,258942,other,Atrial fibrillation
+56,Chris,259038,other,Urosepsis
+57,Chris,262605,nstemi,
+58,Chris,262636,nstemi,
+59,Chris,262906,nstemi,
+60,Chris,262943,nstemi,
+61,Chris,262993,angina,
+62,Chris,266224,angina,
+63,Chris,266342,stemi,
+64,Chris,270188,other,Urosepsi
+65,Chris,272880,other,Pre-syncope
+66,Chris,275769,other,Pleural effusion
+67,Chris,275803,other,Urosepesis
+68,Chris,275891,other,Takosubo 
+69,Chris,275906,nstemi,
+70,Chris,279258,other,Biliary sepsis with troponin leak
+71,Chris,279430,other,Subdural haemorrhage
+72,Chris,27989,other,Stroke
+73,Chris,282170,other,Congestive cardiac failure
+74,Chris,284671,stemi,
+75,Chris,284780,nstemi,
+76,Chris,286727,nstemi,
+77,Chris,286767,stemi,
+78,Chris,287030,other,congestive cardiac failure
+79,Chris,289251,angina,
+80,Chris,289349,other,Transfer for CABG
+81,Chris,289385,other,Pulmonary embolism
+82,Chris,291428,other,Acute pulmonary oedema
+83,Chris,291435,other,Falls
+84,Chris,291674,other,Seizure
+85,Chris,291693,nstemi,
+86,Chris,293495,other,Pneumonia
+87,Chris,296361,other,Mechanical fall
+88,Chris,296448,nstemi,
+89,Chris,299603,nstemi,
+90,Chris,299673,nstemi,
+91,Chris,299706,nstemi,
+92,Chris,299720,other,Gastroenteritis
+93,Chris,299747,other,atrial fibrillation
+94,Chris,301981,angina,
+95,Chris,302777,other,incarcerated hernia
+96,Chris,302796,other,ischaemia left foot
+97,Chris,302959,other,per rectal bleeding
+98,Chris,303194,nstemi,
+99,Chris,303519,other,stroke
+100,Chris,303756,other,Falls
+101,Chris,303850,nstemi,
+102,Chris,305170,stemi,
+103,Chris,305234,stemi,
+104,Chris,305255,stemi,
+105,Chris,305279,nstemi,
+106,Chris,305336,other,Pneumonia
+107,Chris,305424,angina,
+108,Chris,307647,other,severe aortic stenosis
+109,Chris,307742,other,bowel obstruction
+110,Chris,307755,other,urosepsis
+111,Chris,309879,other,atrial fibrillation
+112,Chris,309948,other,pneumonia
+113,Chris,310126,other,atypical chest pain
+114,Chris,310222,other,myopercarditis
+115,Chris,312530,stemi,
+116,Chris,312678,nstemi,
+117,Chris,312766,other,lower respiratory tract infection
+118,Chris,312823,nstemi,
+119,Chris,315268,nstemi,
+120,Chris,317881,other,Falls
+121,Chris,318102,other,Fall
+122,Chris,318167,other,Renal colic
+123,Chris,321142,stemi,
+124,Chris,323680,other,Post CABG
+125,Chris,323688,other,Multi organ failure
+126,Chris,323963,other,Acute pulmonary oedema
+127,Chris,329582,other,congestive cardiac failure
+128,Chris,333395,nstemi,
+129,Chris,336490,other,cardiac arrest
+130,Chris,336529,other,Supraglottitis
+131,Chris,340213,angina,
+132,Chris,340302,nstemi,
+133,Chris,344486,other,atrial fibrillation
+134,Chris,348608,other,myopericarditis
+135,Chris,348894,stemi,
+136,Chris,355360,nstemi,
+137,Chris,358571,nstemi,
+138,Chris,358657,nstemi,
+139,Chris,358775,other,Influenza A
+140,Chris,361082,other,Pneumonia
+141,Chris,363203,stemi,
+142,Chris,363260,other,chest pain
+143,Chris,365275,nstemi,
+144,Chris,365479,other, Supraventricular tachycardia
+145,Chris,365557,nstemi,
+146,Chris,367419,stemi,
+147,Chris,367585,other,congestive cardiac failure
+148,Chris,367729,other,Fall
+149,Chris,369865,stemi,
+150,Chris,370047,stemi,
+151,Chris,370079,other,Community acquired pneumonia
+152,Chris,370144,other,Chest pain
+153,Chris,372314,other,aspiration pneumonia
+154,Chris,372445,nstemi,
+155,Chris,374859,other,fall and long lie
+156,Chris,374873,other,aspiration pneumonia
+157,Chris,375064,stemi,
+158,Chris,377366,nstemi,
+159,Chris,377430,nstemi,
+160,Chris,377441,nstemi,
+161,Chris,377512,other,atrial flutter
+162,Chris,377649,other,atrial fibrillation
+163,Chris,377656,other,Infected seroma
+164,Chris,377698,other,Sepsis
+165,Chris,380480,other,Derranged electolytes
+166,Chris,380510,other,atypical chest pain 
+167,Chris,380650,other,atrial fibrillation
+168,Chris,383129,other,acute kidney injury
+169,Chris,383131,other,pneumonia
+170,Chris,383255,other,falls
+171,Chris,385814,angina,
+172,Chris,385850,stemi,
+173,Chris,385912,other,Left hip dislocation
+174,Chris,386022,other,Heart failure
+175,Chris,388714,other,Pre-sycnope
+176,Chris,388965,nstemi,
+177,Chris,392355,stemi,
+178,Chris,392370,other,atrial fibrillation
+179,Chris,392390,other,Pneumonia
+180,Chris,395688,nstemi,
+181,Chris,395763,other,Urinary tract infection
+182,Chris,395961,other,Sepsis
+183,Chris,399152,other,lethargy
+184,Chris,399192,other,GI bleed
+185,Chris,399223,other,IECOPD
+186,Chris,399406,other,Urinary tract infection
+187,Chris,399421,other,atrial fibrillation
+188,Chris,399439,other,acute on chronic renal failure
+189,Chris,399454,other,Post angiogram 
+190,Chris,401491,other,Motor vehicle accident 
+191,Chris,401724,other,diabetes ketoacidosis
+192,Chris,403637,other,"Diabetic ketoacidosis
+"
+193,Chris,403880,nstemi,
+194,Chris,403911,nstemi,
+195,Chris,406583,other,pneumonia
+196,Chris,406773,other,fall
+197,Chris,409186,other,infective exacerbation of copd
+198,Chris,409347,other,death due to heart failure
+199,Chris,411690,other,infective exacerbation of copd
+200,Chris,411867,nstemi,No ECG of STEMI uploaded
+201,Chris,414892,nstemi,
+202,Chris,414901,other,falls
+203,Chris,414990,other,Paroxysmal atrial flutter
+204,Chris,415033,other,Abdominal pain
+205,Chris,415366,other,syncope
+206,Chris,417905,other,fall and long lie
+207,Chris,417999,other,fall
+208,Chris,421383,other,atrial fibrillation
+209,Chris,424065,nstemi,
+210,Chris,424381,stemi,
+211,Chris,426848,nstemi,
+212,Chris,426853,other,Oesophageal dysmotility
+213,Chris,429213,other,Palpitations
+214,Chris,431102,nstemi,
+215,Chris,433981,nstemi,
+216,Chris,436435,nstemi,
+217,Chris,436790,stemi,
+218,Chris,439924,nstemi,
+219,Chris,442395,other,Severe aortic regurgitation
+220,Chris,442742,other,acute pulmonary oedema
+221,Chris,445862,other,influenza A 
+222,Chris,446070,other,Decompensated heart failure
+223,Chris,449185,nstemi,
+224,Chris,457037,other, CONGESTIVE CARDIAC FAILURE
+225,Chris,461846,other,viral URTI symptoms
+226,Chris,463713,other, ischaemic gut
+227,Chris,463854,nstemi,
+228,Chris,465748,other,pneumonia
+229,Chris,465837,nstemi,
+230,Chris,469716,nstemi,
+231,Chris,469808,nstemi,
+232,Chris,469817,other,Pneumonia
+233,Chris,469989,other,ischaemic bowel
+234,Chris,473258,stemi,
+235,Chris,474648,other,fall
+236,Chris,474734,other,Elective surgery for anomalous RCA
+237,Chris,474838,other,urinary retention
+238,Chris,475739,other,motor vehicle accident
+239,Chris,475766,other,allergic reaction
+240,Chris,475798,nstemi,
+241,Chris,475845,nstemi,
+242,Chris,475850,nstemi,
+243,Chris,475894,other,aortic aneurysm
+244,Chris,476011,other,"Anomolous right coronary artery
+"
+245,Chris,476486,other,Transfer for aortic valve replacement and CABG
+246,Chris,476488,nstemi,
+247,Chris,477285,other, Subarachnoid haemorrhage
+248,Chris,477592,other,Hyperosmolar hyperglycaemic state
+249,Chris,478498,other,data not intepretable
+250,Chris,479067,stemi,
+251,Chris,479101,nstemi,
+252,Chris,479490,nstemi,
+253,Chris,479528,other,Pneumonia
+254,Chris,479611,other,Angina
+255,Chris,479803,stemi,
+256,Chris,55115,nstemi,
+257,Chris,55138,other,Choledocholithiasis
+258,Chris,73692,other,Myocarditis
+259,Chris,73721,stemi,
+260,Chris,73924,other,pneumonia
+261,Chris,73971,other,leaking Abdominal aortic aneursym
+262,Chris,74012,other,pneumonia
+263,Chris,83661,other,thalamic stroke
+264,Chris,83673,other,congestive cardiac failure
+265,Chris,83680,other, Diabetic Gastroparesis
+266,Chris,83723,other,Metastatic bone pain
+267,Chris,83846,other,falls
+268,Chris,83966,other, acute pulmonary oedema
+269,Chris,84075,other,pneumonia
+270,Chris,93576,other,fall and lumbar fracture
+271,Chris,93665,other,infective exacerbation of COPD
+272,Chris,93798,,

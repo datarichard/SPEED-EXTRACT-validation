@@ -1,0 +1,274 @@
+,USER,ENCNTR_KEY,diagnosis,reason.for.other
+0,Seshika,103121,other,Rapid AF with mild troponin leak
+1,Seshika,103360,other,Rapid AF with mild troponin leak
+2,Seshika,103602,other,Rapid AF with mild troponin leak
+3,Seshika,103612,other,Rapid AF with mild troponin leak
+4,Seshika,103705,other,Rapid AF with mild troponin leak
+5,Seshika,111993,other,Unwitnessed fall. Troponin rise in the context of CKD.
+6,Seshika,112072,nstemi,
+7,Seshika,119548,other,Epigastric pain. Non-specific troponin rise.
+8,Seshika,127634,nstemi,
+9,Seshika,127728,nstemi,
+10,Seshika,127795,nstemi,
+11,Seshika,128009,nstemi,
+12,Seshika,134151,other,Falls + community acquired pneumonia
+13,Seshika,134185,nstemi,
+14,Seshika,134333,other,AF rapid ventricular response with mild trop rise
+15,Seshika,134345,other,Ventricular arrhythmia without evidence of ischemia
+16,Seshika,141567,nstemi,
+17,Seshika,147706,other,Pulmonary embolism
+18,Seshika,147832,other,Myopericarditis
+19,Seshika,158713,other,Angina
+20,Seshika,158815,other,Exacerbation of COPD and AF RVR
+21,Seshika,170995,other,Low risk ACS
+22,Seshika,171019,other,Fall
+23,Seshika,171145,nstemi,
+24,Seshika,171223,other,Fall
+25,Seshika,177464,stemi,
+26,Seshika,177766,other,Acute pulmonary oedema
+27,Seshika,183626,other,R femur fracture
+28,Seshika,183702,other,"Congestive cardiac failure, trop leak in the context of AKI"
+29,Seshika,183767,other,Type 2 MI and troponin leak
+30,Seshika,183868,other,Type 2 MI in the context of sepsis / renal impairment
+31,Seshika,189780,other,MINOCA
+32,Seshika,190133,other,Tachycardia related to stimulant ingestion
+33,Seshika,19161,other,Type 2 MI secondary to sepsis
+34,Seshika,195423,stemi,
+35,Seshika,195526,nstemi,
+36,Seshika,195642,other,Type 1 respiratory failure secondary to OSA / COPD / CCF
+37,Seshika,201465,other,Exacerbation of CCF
+38,Seshika,206935,nstemi,
+39,Seshika,212760,nstemi,
+40,Seshika,212797,other,Pre-syncopal event
+41,Seshika,212853,other,Dyspnoea secondary to COPD and sarcoidosis
+42,Seshika,218355,nstemi,
+43,Seshika,218557,other,Refractory hypercalcemia
+44,Seshika,224278,other,AF RVR and trop leak
+45,Seshika,228388,other,Severe aortic stenosis and aortic valve replacement
+46,Seshika,237555,other,Type 2 MI secondary to urosepsis and AF RVR
+47,Seshika,237638,other,AF RVR 
+48,Seshika,241873,stemi,
+49,Seshika,245886,other,Type 2 MI secondary to respiratory sepsis and APO
+50,Seshika,250325,nstemi,
+51,Seshika,250440,nstemi,
+52,Seshika,254414,other,UTI. Troponin leak in the context of sepsis.
+53,Seshika,258809,other,Intracranial haemorrhage
+54,Seshika,258885,stemi,
+55,Seshika,259038,nstemi,
+56,Seshika,259159,angina,
+57,Seshika,262621,nstemi,
+58,Seshika,262825,nstemi,
+59,Seshika,262886,other,Angina post PCI
+60,Seshika,266306,nstemi,
+61,Seshika,266342,stemi,
+62,Seshika,270069,angina,
+63,Seshika,270084,other,Type 2 MI secondary to sepsis
+64,Seshika,270094,other,Cellulitis and fall
+65,Seshika,270159,stemi,
+66,Seshika,270335,other,"CVA (Stroke), non-specific troponin leak"
+67,Seshika,272880,other,Shoulder pain and pre-syncope
+68,Seshika,275772,other,Pneumothorax
+69,Seshika,275803,other,Urosepsis with type 2 MI secondary to sepsis
+70,Seshika,275867,nstemi,
+71,Seshika,275965,nstemi,
+72,Seshika,27913,other,Type 2 MI secondary to severe anemia
+73,Seshika,279255,other,Perforated diverticulum and multi-organ failure
+74,Seshika,279256,other,Acute cholecystitis with type 2 trop leak secondary to sepsis and AF RVR
+75,Seshika,279264,stemi,
+76,Seshika,279463,stemi,
+77,Seshika,281856,other,Hyponatremia
+78,Seshika,282083,other,AF RVR with related troponin leak
+79,Seshika,289370,other,Severe multi-lobar pneumonia
+80,Seshika,291435,other,Fall with long lie
+81,Seshika,291448,nstemi,
+82,Seshika,291481,stemi,
+83,Seshika,293349,other,Stab wound to the chest
+84,Seshika,293391,other,Takotsubo cardiomyopathy
+85,Seshika,294866,other,MSSA endocarditis
+86,Seshika,294928,other,Motor vehicle accident with poly-trauma
+87,Seshika,295037,nstemi,
+88,Seshika,296444,nstemi,
+89,Seshika,297494,nstemi,
+90,Seshika,298487,stemi,
+91,Seshika,298497,other,Loss of consciousness secondary to UTI
+92,Seshika,299603,nstemi,
+93,Seshika,300302,other,AF RVR with APO and type 2 MI
+94,Seshika,301999,other,Fall
+95,Seshika,302568,other,Exacerbation of CCF
+96,Seshika,302571,other,"Exacerbation of COPD, AF RVR with type 2 MI"
+97,Seshika,302876,other,UTI
+98,Seshika,302883,other,"Acute cholecystitis, trop leak in the context of sepsis"
+99,Seshika,303217,stemi,
+100,Seshika,303606,other,Exacerbation of COPD
+101,Seshika,303743,other,myocarditis
+102,Seshika,303756,other,Fall
+103,Seshika,303811,nstemi,
+104,Seshika,305170,stemi,
+105,Seshika,305187,nstemi,
+106,Seshika,305443,nstemi,
+107,Seshika,309931,nstemi,
+108,Seshika,310085,other,Acute cholecystitis
+109,Seshika,310181,other,Aspiration pneumonia
+110,Seshika,312469,other,Stable angina
+111,Seshika,312660,other,Tachy-brady syndrome and PPM insertion
+112,Seshika,315234,other,Congestive cardiac failure and pulmonary hypertension
+113,Seshika,315343,other,Type 2 MI. Asthma exacerbation
+114,Seshika,317909,other,Fall with long lie resulting in NOF fracture
+115,Seshika,318093,other,Decompensated CCF
+116,Seshika,318100,other,Takotsubo cardiomyopathy
+117,Seshika,320942,nstemi,
+118,Seshika,320966,nstemi,
+119,Seshika,321148,nstemi,
+120,Seshika,321197,other,Aortic Dissection
+121,Seshika,323780,stemi,
+122,Seshika,323877,other,Type 2 MI secondary to AF RVR and hypoperfusion
+123,Seshika,323910,other,Pneumonia and type 2 MI
+124,Seshika,326681,other,Community acquired pneumonia and exacerbation of COPD
+125,Seshika,326826,other,Pneumonia and congestive cardiac failure
+126,Seshika,326877,other,Left MCA stroke
+127,Seshika,329628,other,Exacerbation of COPD and APO
+128,Seshika,329816,other,Constipation and Haemorrhoidal bleed
+129,Seshika,333161,other,Coronary artery disease
+130,Seshika,333293,nstemi,
+131,Seshika,336529,nstemi,
+132,Seshika,336720,other,Chest pain and palpitations
+133,Seshika,340001,other,Sepsis and upper GI bleed
+134,Seshika,340302,nstemi,
+135,Seshika,340332,other,Exacerbation of COPD
+136,Seshika,344011,other,Elective CABG
+137,Seshika,344173,nstemi,
+138,Seshika,344271,other,Urosepsis
+139,Seshika,344349,other,Haemorrhagic stroke
+140,Seshika,344456,nstemi,
+141,Seshika,352431,other,anxiety
+142,Seshika,355453,nstemi,
+143,Seshika,355523,other,APO
+144,Seshika,358709,other,Congestive cardiac failure
+145,Seshika,358784,other,Pericarditis
+146,Seshika,360682,stemi,
+147,Seshika,361027,other,Type 2 MI secondary to pneumonia and anemia
+148,Seshika,361110,nstemi,
+149,Seshika,363049,other,Inappropriate ICD shock
+150,Seshika,363067,other,Exacerbation of COPD
+151,Seshika,363103,other,Atypical pneumonia and type 2 MI (sepsis)
+152,Seshika,363127,stemi,
+153,Seshika,363185,other,Severe aortic stenosis
+154,Seshika,363277,other,Rapid atrial flutter with associated trop leak.
+155,Seshika,365382,stemi,
+156,Seshika,365582,nstemi,
+157,Seshika,365646,other,Community acquired pneumonia with associated trop leak
+158,Seshika,365656,nstemi,
+159,Seshika,367450,other,Upper GI bleeding with associated type 2 MI
+160,Seshika,367546,stemi,
+161,Seshika,367596,other,Hospital acquired pneumonia and APO
+162,Seshika,367708,other,Biliary sepsis
+163,Seshika,369865,stemi,
+164,Seshika,369867,other,Rapid AF + severe AS with type 2 MI
+165,Seshika,369944,other,Triple hit lymphoma
+166,Seshika,370107,other,Atrial fibtrillation
+167,Seshika,374873,other,Aspiration pneumonia with trop leak
+168,Seshika,374906,nstemi,
+169,Seshika,377649,nstemi,
+170,Seshika,377665,other,MINOCA
+171,Seshika,380510,other,Atrial fibrillation with type 2 MI
+172,Seshika,380650,other,AF rapid ventricular response
+173,Seshika,383369,other,AF rapid ventricular response
+174,Seshika,383469,other,Myopericarditis
+175,Seshika,385814,nstemi,
+176,Seshika,385912,other,Fall and dislocation hip
+177,Seshika,388679,other,tissue mitral valve replacement
+178,Seshika,388940,other,COPD exacerbation and type 2 MI secondary to hypotension
+179,Seshika,388996,other,myocarditis
+180,Seshika,389024,other,myocarditis
+181,Seshika,392122,other,respiratory tract infection
+182,Seshika,392395,nstemi,
+183,Seshika,392416,nstemi,
+184,Seshika,395885,other,SMA thrombus secondary to newly diagnosed AF RVR
+185,Seshika,395961,stemi,
+186,Seshika,396040,nstemi,
+187,Seshika,399149,other,Newly diagnosed cardiomyopathy
+188,Seshika,399467,other,Community acquired pneumonia with type 2 MI secondary to anemia and sepsis
+189,Seshika,401389,other,Mild decompensated congestive cardiac failure
+190,Seshika,403579,nstemi,
+191,Seshika,403637,other,Type 2 MI
+192,Seshika,403881,other,Shortness of breath on exertion
+193,Seshika,406448,other,Upper GI bleed leading to Type 2 MI
+194,Seshika,406460,other,Angina
+195,Seshika,406628,other,AF RVR
+196,Seshika,409160,other,Myocarditis
+197,Seshika,409237,stemi,
+198,Seshika,411664,other,Community acquired pneumonia leading to type 2 MI
+199,Seshika,411690,other,COPD exacerbation and AF RVR
+200,Seshika,411860,other,APO and aspiration pneumonia
+201,Seshika,411867,nstemi,
+202,Seshika,411877,other,neuroleptic malignant syndrome leading to trop leak
+203,Seshika,411933,other,myopericarditis
+204,Seshika,411992,nstemi,
+205,Seshika,415286,other,SVT leading to rate related trop leak
+206,Seshika,418170,other,Fall resulting in shoulder dislocation
+207,Seshika,418178,nstemi,
+208,Seshika,421076,other,AF RVR rate related trop leak
+209,Seshika,421078,other,perforated sigmoid diverticulitis
+210,Seshika,421080,other,AF RVR leading to rate related trop leak
+211,Seshika,421146,other,AF RVR leading to rate related trop rise
+212,Seshika,421200,other,AF RVR with rate related trop rise
+213,Seshika,424065,stemi,
+214,Seshika,424110,other,Trop leak in the context of AKI and mesothelioma
+215,Seshika,424136,other,Chest sepsis with type 2 MI
+216,Seshika,424331,stemi,
+217,Seshika,424440,other,Severe aortic stenosis and heart failure
+218,Seshika,424449,other,Congestive cardiac failure
+219,Seshika,426727,nstemi,
+220,Seshika,426835,other,Fall with long lie
+221,Seshika,428939,other,Atypical chest pain
+222,Seshika,428989,other,Abdominal sepsis
+223,Seshika,431031,other,Seizure and takotsubo cardiomyopathy
+224,Seshika,433582,other,atrial flutter
+225,Seshika,433606,nstemi,
+226,Seshika,433726,other,Type 2 MI / trop leak in the context of hypotension
+227,Seshika,433981,nstemi,
+228,Seshika,436439,nstemi,
+229,Seshika,436790,stemi,
+230,Seshika,442708,other,takotsubo cardiomyopathy
+231,Seshika,443109,other,fall
+232,Seshika,445851,nstemi,
+233,Seshika,446133,nstemi,
+234,Seshika,448979,other,pneumonia and CVA
+235,Seshika,451504,other,AKI and hypotension leading to trop leak
+236,Seshika,451721,other,congestive cardiac failure
+237,Seshika,456829,other,community acquired pneumonia
+238,Seshika,457037,other,AF RVR leading to congestive cardiac failure
+239,Seshika,459240,nstemi,
+240,Seshika,459627,nstemi,
+241,Seshika,463829,stemi,
+242,Seshika,469716,nstemi,
+243,Seshika,469817,nstemi,
+244,Seshika,469961,other,congestive cardiac failure
+245,Seshika,470010,other,Type 2 MI in the context of hypotension and shock
+246,Seshika,475717,nstemi,
+247,Seshika,475848,stemi,
+248,Seshika,475894,other,Ruptured AAA
+249,Seshika,476896,other,Complete heart block
+250,Seshika,476897,nstemi,
+251,Seshika,477078,other,APO
+252,Seshika,477286,other,Cardiac arrest
+253,Seshika,477587,other,atypical chest pain
+254,Seshika,477588,other,aortic dissection
+255,Seshika,478427,other,SVT
+256,Seshika,478781,nstemi,
+257,Seshika,479496,other,MYOPERICARDITIS
+258,Seshika,479528,other,Community acquired pneumonia with trop leak
+259,Seshika,479550,other,Myopericarditis
+260,Seshika,55096,angina,
+261,Seshika,55317,other,Congestive cardiac failure
+262,Seshika,64881,other,Urosepsis and PE
+263,Seshika,64893,other,Fall and left shoulder dislocation
+264,Seshika,65145,nstemi,
+265,Seshika,73725,other,SVT
+266,Seshika,73971,other,Ruptured AAA
+267,Seshika,74012,other,Respiratory sepsis
+268,Seshika,74028,other,Cardiac arrest
+269,Seshika,84082,other,AF with trop leak
+270,Seshika,93665,other,"Exacerbation of COPD and type 2 respiratory failure, leading to trop leak"
+271,Seshika,93712,stemi,
+272,Seshika,93798,,
